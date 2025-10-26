@@ -41,7 +41,9 @@ Gaining unauthorized entry into a windows machine and establishing a remote conn
 - finding any confidential documents and exposing it's juicy secrets
 <img width="1427" height="338" alt="Screenshot (451)" src="https://github.com/user-attachments/assets/dc8e1c1e-00b7-4408-9393-8a95da51387f" />
 <img width="1427" height="476" alt="Screenshot (452)" src="https://github.com/user-attachments/assets/117e315f-05b5-4e2f-a4b6-531ee3e5a7e7" /> <br/>
+
 *Ref 5: Revealing sensitive information*
+<br/>
 <br/>
 
 ## Telemetry Generation
