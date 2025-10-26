@@ -45,5 +45,8 @@ Gaining unauthorized entry into a windows machine and establishing a remote conn
 <br/>
 
 ## Telemetry Generation
-- investigating suspicious activities in the system
+- investigating suspicious activity in the system after a notepad opened on it's own.
+https://github.com/user-attachments/assets/45b80dad-0795-4b27-8ceb-25626a489369
+
+
 
