@@ -16,7 +16,8 @@ Gaining unauthorized entry into a windows machine and establishing a remote conn
 ### Generate a payload using msfvenom to be used to establish the remote connection
 - scan the network for available devices
 <img width="1548" height="853" alt="Screenshot (435)" src="https://github.com/user-attachments/assets/ac7a0a67-3182-43cf-bb53-3ecac21a5680" /> <br/>
-*Ref 1: Scanning available devices*
+*Ref 1: Scanning available devices* <br/>
+<br/>
 - scan target device to probe more information out of it
 <img width="1591" height="829" alt="Screenshot (437)" src="https://github.com/user-attachments/assets/a0d7fad9-f520-4815-894b-3857bc7dbe7a" />
 *Ref 2: Port scanning*
